@@ -1,37 +1,18 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/kanchan-gagare/me.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Hi, My name is Kanchan Gagare ,I'm pursuing graduation in Bachelors of Engineering in Information Technology(BE-IT) currently in 3rd year. I'm proficient in C ,CPP, HTML5, CSS3, JavaScript ..!Now I'm learning Web Development.Also I'm learning Python too. Besides programming ,I love Drawing.
+#Featured:
 
-### Markdown
+👩‍💻I'm currently working on Web developement.
+💻I'm currently learning Front end developement.
+🗨Ask me about: C,CPP ,HTML5 ,CSS3 , JavaScript!
+💬Contact me: kanchangagare.25@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kanchan-gagare/me.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Language that i know :
+C++
+HTML
+CSS
+HTML5
+CSS3
+JavaScript
